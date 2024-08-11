@@ -24,4 +24,4 @@ The Power BI dashboard provides visual insights into various HR metrics:
 - **Satisfaction & Engagement**: Analysis of job satisfaction scores across different segments of the workforce.
 
 ### Dashboard Screenshot
-You can view the screenshot of the dashboard [here](HR_ANALYSIS_pdf_page-0001).
+![Dashboard Screenshot](HR_ANALYSIS_pdf_page-0001.jpg)
